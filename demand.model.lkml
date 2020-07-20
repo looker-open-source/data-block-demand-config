@@ -1,4 +1,4 @@
-include: "*.view"
+include: "/views/*.view"
 
 explore: let_livestream_config {
   extends: [let_livestream_core]
